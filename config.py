@@ -42,6 +42,13 @@ LEARNING_RATE = 0.001
 RANDOM_SEED = 42
 MIN_OBSERVATIONS = 252                 # Minimum days of data
 
+# TGAT parameters
+TGAT_HIDDEN_DIM = 64
+TGAT_NUM_HEADS = 4
+TGAT_DROPOUT = 0.1
+TGAT_EPOCHS = 80
+TGAT_LR = 0.001
+
 # --- Training scope ---
 TRAIN_START = "2008-01-01"
 
