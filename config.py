@@ -46,7 +46,7 @@ MIN_OBSERVATIONS = 252                 # Minimum days of data
 TGAT_HIDDEN_DIM = 64
 TGAT_NUM_HEADS = 4
 TGAT_DROPOUT = 0.1
-TGAT_EPOCHS = 80
+TGAT_EPOCHS = 150
 TGAT_LR = 0.001
 
 # --- Training scope ---
