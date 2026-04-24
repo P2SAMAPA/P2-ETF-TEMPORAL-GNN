@@ -36,7 +36,7 @@ NODE_FEATURE_WINDOW = 5               # Past returns per node as features
 # --- TGN Model Parameters ---
 HIDDEN_DIM = 64                        # GCN hidden dimension
 NUM_LAYERS = 2                         # Number of GCN layers
-EPOCHS = 80                            # Training epochs
+EPOCHS = 120                            # Training epochs
 BATCH_SIZE = 1                         # One graph at a time (temporal)
 LEARNING_RATE = 0.001
 RANDOM_SEED = 42
