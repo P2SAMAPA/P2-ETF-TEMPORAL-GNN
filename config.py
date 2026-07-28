@@ -13,7 +13,7 @@ HF_OUTPUT_REPO = "P2SAMAPA/p2-etf-temporal-gnn-results"
 # --- Universe Definitions ---
 FI_COMMODITIES_TICKERS = ["TLT", "VCIT", "LQD", "HYG", "VNQ", "GLD", "SLV"]
 EQUITY_SECTORS_TICKERS = [
-    "SPY", "QQQ", "XLK", "XLF", "XLE", "XLV", "SMH", "SOXX", "XLB", "IWD", "IWO",
+    "SPY", "QQQ", "XLK", "XLF", "XLE", "XLV", "SMH", "SOXX", "XLB", "IWD", "IWO", "URA",
     "XLI", "XLY", "XLP", "XLU", "GDX", "XME",
     "IWF", "XSD", "XBI", "IWM"
 ]
