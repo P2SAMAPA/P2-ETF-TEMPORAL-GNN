@@ -14,7 +14,7 @@ HF_OUTPUT_REPO = "P2SAMAPA/p2-etf-temporal-gnn-results"
 FI_COMMODITIES_TICKERS = ["TLT", "VCIT", "LQD", "HYG", "VNQ", "GLD", "SLV"]
 EQUITY_SECTORS_TICKERS = [
     "SPY", "QQQ", "XLK", "XLF", "XLE", "XLV", "SMH", "SOXX", "XLB", "IWD", "IWO", "URA",
-    "XLI", "XLY", "XLP", "XLU", "GDX", "XME",
+    "XLI", "XLY", "XLP", "XLU", "GDX", "XME", "VUG", "VTV", "SPYG", "QUAL", "IWR", "VO", "VB", "VIG", "VEA", "VGT", "VDE", "XLC", "IBB",
     "IWF", "XSD", "XBI", "IWM"
 ]
 ALL_TICKERS = list(set(FI_COMMODITIES_TICKERS + EQUITY_SECTORS_TICKERS))
